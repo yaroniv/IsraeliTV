@@ -4,7 +4,7 @@
 http://w.com
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" group-title="Israel" tvg-logo="anarchi.png",[COLOR orange] הודעה חשובה[/COLOR] [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/4.m3u8
-#EXTINF:22 logo="http://anarchitv.co/TV/Logos/222.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
+#EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/2live1.m3u8
 #EXTINF:21 logo="http://anarchitv.co/TV/Logos/21.png" channel-id="21" epg-id="21" group-title="Israel" tvg-logo="21.png",ערוץ הקניות [B][COLOR lime] ישראל - [/COLOR][/B]
 http://80.244.172.12:80/ch21Live/ch21Live_med.m3u8
