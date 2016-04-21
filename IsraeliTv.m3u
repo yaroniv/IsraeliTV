@@ -1,11 +1,9 @@
 #EXTM3U
 ###########################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]19/4 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]21/4 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://w.com
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" group-title="Israel" tvg-logo="anarchi.png",[COLOR orange] הודעה חשובה[/COLOR] [B][COLOR lime] ישראל - [/COLOR][/B]
-http://anarchitv.co/tvv/4.m3u8
 #EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
-http://anarchitv.co/tvv/22new.m3u8
+http://anarchitv.co/tvv/2livek.m3u8
 #EXTINF:21 logo="http://anarchitv.co/TV/Logos/21.png" channel-id="21" epg-id="21" group-title="Israel" tvg-logo="21.png",ערוץ הקניות [B][COLOR lime] ישראל - [/COLOR][/B]
 http://80.244.172.12:80/ch21Live/ch21Live_med.m3u8
 #EXTINF:20 logo="http://anarchitv.co/TV/Logos/20.png" channel-id="20" epg-id="20" group-title="Israel" tvg-logo="20.png",ערוץ 20 [B][COLOR lime] ישראל - [/COLOR][/B]
@@ -24,6 +22,8 @@ http://anarchitv.co/tvv/nickil.m3u8
 http://anarchitv.co/tvv/zoomil.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",קולנוע ישראלי [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/s5il.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",ערוץ הספורט [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/tvv/s5real.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",ספורט 5 פלוס [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/s5pil.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",ספורט מתחלף [B][COLOR lime] ישראל - [/COLOR][/B]
