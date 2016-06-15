@@ -6,7 +6,7 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 http://31.168.228.117:1935/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1139593700_b1392000.m3u8
 #EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/2livek.m3u8
-#EXTINF:222 logo="http://anarchitv.co/TV/Logos/anarchi.png" channel-id="222" epg-id="222" group-title="Israel" tvg-logo="anarchi.png",HD SPORT1 [B][COLOR lime] ישראל - [/COLOR][/B]
+#EXTINF:222 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="222" epg-id="222" group-title="Israel" tvg-logo="10.png",HD SPORT1 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://cdn11_usw.sababatv.com/C18/smil:C18.smil/chunklist_w1329808243_b1200000.m3u8?token=c32b62ae-0d12-4ace-9b32-fd0001488e3f&rnd=0.6668135444633663
 #EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/ch10grabber.m3u8
