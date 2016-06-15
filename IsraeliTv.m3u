@@ -9,7 +9,7 @@ http://anarchitv.co/tvv/2livek.m3u8
 #EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/ch10grabber.m3u8
 #EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",ישראל 9 [B][COLOR lime] ישראל - [/COLOR][/B]
-http://cdn11_usw.sababatv.com/C18/smil:C18.smil/chunklist_w1329808243_b1200000.m3u8?token=c32b62ae-0d12-4ace-9b32-fd0001488e3f&rnd=0.6668135444633663
+http://cdn11_usw.sababatv.com/C18/smil:C18.smil/chunklist_w1329808243_b1200000.m3u8
 #EXTINF:20 logo="http://anarchitv.co/TV/Logos/20.png" channel-id="20" epg-id="20" group-title="Israel" tvg-logo="20.png",ערוץ 20 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://80.244.172.41/ch20Live/ch20-High.m3u8
 #EXTINF:24 logo="http://anarchitv.co/TV/Logos/24.png" channel-id="24" epg-id="24" group-title="Israel" tvg-logo="24.png",ערוץ המוזיקה [B][COLOR lime] ישראל - [/COLOR][/B]
