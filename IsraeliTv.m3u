@@ -1,21 +1,23 @@
 #EXTM3U
 ###########################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]15/6 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]5/07 עודכן[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png",הערוץ הראשון [B][COLOR lime] ישראל - [/COLOR][/B]
-http://31.168.228.117:1935/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1139593700_b1392000.m3u8
+http://62.90.90.56:1935/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1066785810_b1392000.m3u8
 #EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
-http://anarchitv.co/tvv/2livek.m3u8
+http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_2/playlist.m3u8
 #EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/ch10grabber.m3u8
 #EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",ישראל 9 [B][COLOR lime] ישראל - [/COLOR][/B]
-http://cdn11_usw.sababatv.com/C18/smil:C18.smil/chunklist_w1329808243_b1200000.m3u8?token=c32b62ae-0d12-4ace-9b32-fd0001488e3f&rnd=0.6668135444633663
+rtmp://89.163.134.104:2000/site/anal911_..........
 #EXTINF:20 logo="http://anarchitv.co/TV/Logos/20.png" channel-id="20" epg-id="20" group-title="Israel" tvg-logo="20.png",ערוץ 20 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://80.244.172.41/ch20Live/ch20-High.m3u8
 #EXTINF:24 logo="http://anarchitv.co/TV/Logos/24.png" channel-id="24" epg-id="24" group-title="Israel" tvg-logo="24.png",ערוץ המוזיקה [B][COLOR lime] ישראל - [/COLOR][/B]
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
-http://plph-s.vidnt.com:1935/plph_PelSport5HD2Repeat/_definst_/smil:PelSport5HD1.smil/chunklist_w188916038_b1088000.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 [B][COLOR lime] ישראל - [/COLOR][/B]
+http://televiz.net/tvv/s5m1.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/777.png" group-title="Israel" tvg-logo="777.png",יורו 2016 [B][COLOR lime] ישראל - [/COLOR][/B]
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish1/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
 #EXTINF:33 logo="http://anarchitv.co/TV/Logos/33.png" channel-id="33" epg-id="33" group-title="Israel" tvg-logo="33.png",ערוץ 33 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://82.80.192.27/iba_channel-33MRepeat/_definst_/smil:channel-33M.smil/playlist.m3u8
 #EXTINF:333 logo="http://anarchitv.co/TV/Logos/2news.png" channel-id="333" epg-id="333" group-title="Israel" tvg-logo="2news.png",ערוץ חדשות 2 [B][COLOR lime] ישראל - [/COLOR][/B]
@@ -36,6 +38,9 @@ http://109.68.190.192:1935/israil/israil.stream/playlist.m3u8
 rtmp://vod.tv7.fi/tv7-fi/mp4:tv7-fi.stream_360p
 ##########################################################
 ##########################################################
+
+#EXTINF:-1,Tom and Jerry (24/7) [B][COLOR orange] ילדים - [/COLOR][/B]
+rtmp://208.53.164.194/ctv/tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html live=1
 #EXTINF:-1,Nickelodeon R/E [B][COLOR orange] ילדים - [/COLOR][/B]
 http://37.195.219.210:81/udp/239.1.3.4:1234
 #EXTINF:-1,Disney Channel R/E [B][COLOR orange] ילדים - [/COLOR][/B]
@@ -57,31 +62,23 @@ http://77.120.118.235:8089
 
 ########################################################
 ########################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/comedyc.png" tvg-logo="comedyc.png" group-title="Entertainment", Comedy Central HD R/E[B][COLOR red] בידור - [/COLOR][/B]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/com2edyc.png" tvg-logo="com2edyc.png" group-title="Entertainment", הסימפסונים 24/7[B][COLOR red] בידור - [/COLOR][/B]
+http://veetle.com/index.php/hls/streamMbrfast/55e46f1440950_/stream.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/comedyc.png" tvg-logo="comedyc.png" group-title="Entertainment", Comedy Central[B][COLOR red] בידור - [/COLOR][/B]
 http://78.56.221.9:7059/comedy
 ########################################################
-#EXTINF:0,History Channel R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://213.80.208.244:34040/udp/233.12.144.108:5050
-#EXTINF:0,Nat Geo WILD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://37.195.219.210:81/udp/239.1.5.16:1234
-#EXTINF:0,Nat Geo wild HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://2.137.38.162:4022/udp/239.0.9.136:8208 
-#EXTINF:0,National Geographic R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://37.195.219.210:81/udp/239.1.5.8:1234
-#EXTINF:0,IQ HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.1:1234
-#EXTINF:0,CBS Reality R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.71:1234
+#EXTINF:-1,Animal Planet - LIVE![B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Discovery Science R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://37.195.219.210:81/udp/239.1.5.9:1234
 #EXTINF:0,Animal planet  R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://37.195.219.210:81/udp/239.1.5.3:1234
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/discovery.png" group-title="Documentary" tvg-logo="discovery.png",Discovery Channel -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://79.133.108.48:8888/udp/239.191.254.34:13343
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Documentary" tvg-logo="nationalgeographic.png", National Geographic HD-R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://2.137.38.162:4022/udp/239.0.5.78:8208
+http://37.195.219.210:81/udp/239.1.5.1:1234
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Documentary" tvg-logo="nationalgeographic.png", National Geographic Wild [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://37.195.219.210:81/udp/239.1.5.16:1234
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Documentary" tvg-logo="nationalgeographic.png", National Geographic -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.19:1234
+http://37.195.219.210:81/udp/239.1.5.8:1234
 
 #EXTINF:331 logo="http://anarchitv.co/TV/Logos/RT%20Documentary.png" channel-id="331" epg-id="331" group-title="Documentary" tvg-logo="RT%20Documentary.png", RT Documentary [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
@@ -115,20 +112,20 @@ http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8
 
 ##############################################################################################
 ###############################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/simpsons66.png" group-title="Series" tvg-logo="simpsons60.png", Fox Life HD R/E [B][COLOR red] סדרות - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.134:1234
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/simpsons%20.png" group-title="Series" tvg-logo="simpsons%20.png", הסימפסונים [B][COLOR red] סדרות - [/COLOR][/B]
 http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/simpsons220.png" group-title="Series" tvg-logo="simpsons220.png", SouthPark 24/7 [B][COLOR red] סדרות - [/COLOR][/B]
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 ##############################################################################################
 ###############################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VH1.png" group-title="Music" tvg-logo="VH1.png",VH1 R/E [B][COLOR blue] מוזיקה - [/COLOR][/B]
-http://2.137.38.162:4022/udp/239.0.0.75:8208
+#EXTINF:0,MTV Dance [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://178.163.100.40:8000/udp/232.0.0.233:2001
+#EXTINF:0, MTV Rocks [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://178.163.100.40:8000/udp/232.0.0.193:2001
+#EXTINF:0, MTV Hits [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://178.163.100.40:8000/udp/232.0.0.194:2001
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VH1.png" group-title="Music" tvg-logo="VH1.png",VH1 Classic R/E [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://37.195.219.210:81/udp/239.1.8.7:1234
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/MTV%20MUSIC.png" group-title="Music" tvg-logo="MTV%20MUSIC.png",MTV R/E [B][COLOR blue] מוזיקה - [/COLOR][/B]
-http://2.137.38.162:4022/udp/239.0.0.211:8208
 #EXTINF:-1 group-title="Music", Amazing TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:946 logo="http://anarchitv.co/TV/Logos/Heart%20TV.png" channel-id="946" epg-id="946" group-title="Music" tvg-logo="Heart%20TV.png",Heart TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
@@ -267,8 +264,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
 ##############################
 ##############################
-#EXTINF:-1 group-title="France", France 2 [B][COLOR orange] צרפתית - [/COLOR][/B]
-http://anarchitv.co/premium/f2.m3u8
 #EXTINF:-1 group-title="France", France24 HD [B][COLOR orange] צרפתית - [/COLOR][/B]
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
 #EXTINF:-1 group-title="France", ARTE [B][COLOR orange] צרפתית - [/COLOR][/B]
@@ -341,8 +336,6 @@ rtmp://63.237.48.23/live/ playpath=MBC2 swfUrl=http://admin.mangomolo.com/analyt
 rtmp://63.237.48.23/live playpath=MBC_ACTION swfUrl=http://www.tvgoog.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://tvgoog.com/tv/18.html conn=S:OK
 ##############################################################################################
 ###############################################################################################
-#EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",9 канал Израиль  [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://anarchitv.co/tvv/3.m3u8
 #EXTINF:-1 group-title="Russian",100% News [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="Russian",11 канал (Днепропетровск) [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -357,24 +350,26 @@ http://91.192.180.66:1935/tv-channels/stream02/playlist.m3u8
 http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 #EXTINF:-1 group-title="Russian",2+2/9 канал UA [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://edge.hitechstreaming.com/hls/9tv_hq.m3u8
+#EXTINF:-1 group-title="Russian",21 канал (Мурманск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://tv21.inmurmansk.ru/full_stream.flv
+#EXTINF:-1 group-title="Russian",21 канал (Ужгород) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:-1 group-title="Russian",21+ (Чебоксары) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://77.240.152.166/live/live1
 #EXTINF:-1 group-title="Russian",24 Украiна [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://109.68.190.192:1935/ukraina24/ukraina24.stream/playlist.m3u8
+http://109.68.190.192:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Russian",24 Южный (Одесса) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://iphone-streaming.ustream.tv/uhls/19272199/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="Russian",26 Регион (Ставрополь) [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://26region.vintera.tv:1935/26region/26region1
 #EXTINF:-1 group-title="Russian",360 Подмосковье [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://cdn.mosobltv.ru:1935/rtp-stream/mosobltv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Russian",365 Music HD [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://stream.365music.ru:8000/365music/365music.m3u8
+http://now2.eaglecdn.com/stream_transcoded/360tv_testE_hi/index.m3u8
 #EXTINF:-1 group-title="Russian",43 Канал HD [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 #EXTINF:-1 group-title="Russian",4TV (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://tv4.te.ua:8081/nimble_live/tv4/playlist.m3u8
-#EXTINF:-1 group-title="Russian",5 канал UA [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://stream2.5.ua:8080/tv/5tv/5tv1/playlist.m3u8
 #EXTINF:-1 group-title="Russian",5+ ДТС [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://78.140.209.6:1935/unost/5/chunklist.m3u8
+http://78.140.209.14:1935/unost/5/chunklist.m3u8
 #EXTINF:-1 group-title="Russian",7 канал (Одесса) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://85.238.112.10:8810/hls_sec/239.33.15.14-.m3u8
 #EXTINF:-1 group-title="Russian",8 Канал (Владивосток) [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -383,34 +378,26 @@ rtmp://37.187.27.118/live/livestream2
 rtmp://37.187.27.118/live/livestream3
 #EXTINF:-1 group-title="Russian",8 Канал (Красноярск) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://80.65.18.213/playlist_bonus_tv_region.m3u8
-#EXTINF:-1 group-title="Russian",8 канал (Ульяновск) [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://iphone-streaming.ustream.tv/uhls/12336984/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="Russian",ATR [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://str1.atr.ua/atr/live1/index.m3u8
 #EXTINF:-1 group-title="Russian",AnyDay 3D [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://streamer1.cdn.3dsmart.tv/hls/anyday.tv.3d/stream.m3u8
 #EXTINF:-1 group-title="Russian",AnyDay HD [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://streamer1.cdn.3dsmart.tv/hls/anyday.tv.hd/stream.m3u8
-#EXTINF:-1 group-title="Russian",BIM TV (Казань) [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://bimru.ru:11935/live/video2
 #EXTINF:-1 group-title="Russian",Brodilo TV HD [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://brodilo.tv/channel.php
 #EXTINF:-1 group-title="Russian",By Home TV [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://live.buy-home.tv:1935/bhtvlive/live/playlist.m3u8
 #EXTINF:-1 group-title="Russian",CT [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://80.245.113.12:1935/live/pubtalk1/playlist.m3u8
-#EXTINF:-1 group-title="Russian",DJ.CT.FM [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://80.245.113.12:1935/live/dj1/playlist.m3u8
 #EXTINF:-1 group-title="Russian",DOT DANCE [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russian",Da TV [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://krylov.cdnvideo.ru/krylov/krylov.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russian",En TV (Энергодар) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://tv.om.ua:8090/test.flv
+#EXTINF:-1 group-title="Russian",Euronews [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
 #EXTINF:-1 group-title="Russian",Europa Plus [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russian",Everlast Poker TV [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://hls.goodgame.ru/hls/25476.m3u8
 #EXTINF:-1 group-title="Russian",FM ТВ (Симферополь) [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://193.238.110.158:1935/rtmp/neapol-hq
 #EXTINF:-1 group-title="Russian",Fresh TV [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -421,14 +408,12 @@ http://streamer1.cdn.3dsmart.tv/hls/glazella.tv.3d/stream.m3u8
 http://streamer1.cdn.3dsmart.tv/hls/glazella.tv.hd/stream.m3u8
 #EXTINF:-1 group-title="Russian",Global Star [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://stream.globalstar.tv/live/gs
-#EXTINF:-1 group-title="Russian",HD FASHION UA [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://95.67.8.43:1935/live/fashionhd
 #EXTINF:-1 group-title="Russian",HD Media 3D [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1 group-title="Russian",HIT (Орск) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 group-title="Russian",HITV [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://video02.cdnvideo.ru/video02/HITV.sdp
+http://live.rmg.cdnvideo.ru/rmg/rmg1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Hard Life [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 #EXTINF:-1 group-title="Russian",Hello TV [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -443,22 +428,18 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 http://206.190.141.27:1935/live/impact/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Inva Media TV [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://195.211.78.48:1935/live/invatv.flv
-#EXTINF:-1 group-title="Russian",KRATU (Херсон) [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://212.113.32.169:1935/live/kratutv
 #EXTINF:-1 group-title="Russian",LALE [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://stream.atr.ua:1937/lale//live
-#EXTINF:-1 group-title="Russian",Life 78 [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://tv78.life.ru/lifetv/480p/index.m3u8
-#EXTINF:-1 group-title="Russian",Life News (720p) [B][COLOR pink] רוסית - [/COLOR][/B]	
+#EXTINF:-1 group-title="Russian",Life (720p) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://tv.life.ru/lifetv/720p/index.m3u8
-#EXTINF:-1 group-title="Russian",Luxury HD [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://nano.teleservice.su:8080/hls/luxuryHD.m3u8
+#EXTINF:-1 group-title="Russian",Life 78 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://tv78.life.ru/lifetv/720p/index.m3u8
 #EXTINF:-1 group-title="Russian",Luxury TV [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 group-title="Russian",Music Box [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Music Box UA [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://212.26.132.86/hls/mb_ua_2500.m3u8
+http://212.26.132.86/hls/mb_ua.m3u8
 #EXTINF:-1 group-title="Russian",Mute 3D [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
 #EXTINF:-1 group-title="Russian",Mute HD [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -469,6 +450,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/20608931/streams/live/playlist.m
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="Russian",News 24 HD [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2600000.m3u8
+#EXTINF:-1 group-title="Russian",One.by [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://rtmp.one.by:1200
 #EXTINF:-1 group-title="Russian",One.by HD [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://rtmp.one.by:1300
 #EXTINF:-1 group-title="Russian",One.by HD (Резерв) [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -484,37 +467,39 @@ http://hls.cdn.promodj.com/hls/live/pdjlive.m3u8
 #EXTINF:-1 group-title="Russian",RTI Вільні Люди [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://cdn.vsnw.net:8081/interradio/720i.m3u8
 #EXTINF:-1 group-title="Russian",RU TV [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://video03.cdnvideo.ru/video03/RUTV.sdp/playlist.m3u8
+http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Relax.TV [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Renome (Одесса) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:-1 group-title="Russian",Rubin TV [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://grey.ether.tv/live/rubin/broadcast4
-#EXTINF:-1 group-title="Russian",Russia Today Doc (RU) [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="Russian",Russian Music Box [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russian",TV Sale [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://81.95.40.226/live/tvsale_1
-#EXTINF:-1 group-title="Russian",UA Суми (Сумская ОГТРК,Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+#EXTINF:-1 group-title="Russian",UA Суми (Сумская обл.,Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://193.34.94.59:8134/live/my_livestream
 #EXTINF:-1 group-title="Russian",UTV (Казань) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://peerstv.ufanet.ru/utv/1015/index.m3u8
+#EXTINF:-1 group-title="Russian",UTV (Нефтекамск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://peerstv.ufanet.ru/utv/1018/index.m3u8
+#EXTINF:-1 group-title="Russian",UTV (Октябрьский) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://peerstv.ufanet.ru/utv/1017/index.m3u8
+#EXTINF:-1 group-title="Russian",UTV (Орск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://92.50.128.180/utv/1016/index.m3u8
+#EXTINF:-1 group-title="Russian",UTV (Салават) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://peerstv.ufanet.ru/utv/1019/index.m3u8
+#EXTINF:-1 group-title="Russian",UTV (Стерлитамак) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://peerstv.ufanet.ru/utv/1020/index.m3u8
 #EXTINF:-1 group-title="Russian",UTV (Уфа) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://92.50.128.180/utv/1021/index.m3u8
 #EXTINF:-1 group-title="Russian",Universmotri.ru [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://178.213.242.142:1935/live/mq.sdp/playlist.m3u8
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Zik [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://ziktv.cdnvideo.ru/ziktv/ziktv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russian",АРТ Вести [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://live.art.cdnvideo.ru/art-pull//ed6b7e08ea/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Аверс (Луцк) [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://194.44.130.179:1935/oflaDemo/streamTest
 #EXTINF:-1 group-title="Russian",Аист (Иркутск) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://195.206.41.230:8080/live/mystream/index.m3u8
 #EXTINF:-1 group-title="Russian",Академия (Одесса) [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://cdn4.live-tv.od.ua:8081/tv/36chod-abr/tv/36chod/chunks.m3u8
+http://77.88.196.133:8081/36chod/36chod-abr/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Алекс Запоріжжя [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://94.240.131.3:1935/live/livestream1
 #EXTINF:-1 group-title="Russian",Альтес (Чита) [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -529,6 +514,8 @@ rtmp://stream.afontovo.ru:1935/live/afontovo_hi
 http://live.streaming.hoster.by:1935/belarus1/live/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Беларусь 24 [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://video.tvr.by:1935/belarus24/live/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Белгород 24 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://91.210.105.231/main.m3u8
 #EXTINF:-1 group-title="Russian",Буковина [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://gigaz.wi.com.ua/hallDemoHLS/BUKOVINA
 #EXTINF:-1 group-title="Russian",ВДТ (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -538,11 +525,13 @@ http://77.88.210.226/machouse.ua_live/live5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Волгоград 1 [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://volgogradtv1.cdnvideo.ru:1935/volgogradtv1/volgogradtv1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Волгоград 24 [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp
+http://volgogradtrv.cdnvideo.ru/volgogradtrv/volgogradtrv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Вся Уфа [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://hls.mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Гамма [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://gamma.tv:1935/live/1_gamma/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Глазами Туриста [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://peerstv.ufanet.ru/utv/1320/index.m3u8
 #EXTINF:-1 group-title="Russian",Глас [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://gigaz.wi.com.ua/hallDemo/glassua
 #EXTINF:-1 group-title="Russian",Губерния (Самара) [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -551,10 +540,8 @@ http://grey.ether.tv/live/samara/broadcast4/chunklist.m3u8
 rtmp://212.26.132.86/live/gumor_babai
 #EXTINF:-1 group-title="Russian",Детское ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://46.182.25.34:1935/tv/1425/playlist.m3u8
-#EXTINF:-1 group-title="Russian",Для Двоих SD [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://78.140.209.6:1935/tv/42tv2/playlist.m3u8
 #EXTINF:-1 group-title="Russian",До ТБ [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://212.26.132.78/dontrk/dontrk
+rtmp://212.26.129.98/streams/dontrk-1m
 #EXTINF:-1 group-title="Russian",Домашний (Сургут) [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://tvsever.ru:1935/live/dom2
 #EXTINF:-1 group-title="Russian",Думская TV HD (Одесса) [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -564,7 +551,7 @@ rtmp://online1.tvradiozt.com.ua/rtplive/live1.stream
 #EXTINF:-1 group-title="Russian",Жук-ТВ (Жуковский) [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://77.232.152.77:5555/stream.flv
 #EXTINF:-1 group-title="Russian",ИКС (Севастополь) [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://iphone-streaming.ustream.tv/ustreamVideo/7958810/streams/live/playlist.m3u8
+rtmp://ikstv-htlive-rts.cdn.ngenix.net/live/_definst_/ikstv
 #EXTINF:-1 group-title="Russian",ИТВ Крым [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://80.245.113.12:1935/live/itv1/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Интер [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -575,14 +562,12 @@ http://lb1.itcons.net.ua:1935/inters/redirect.hls?smil:inter.smil
 rtmp://94.190.64.24/interra/360
 #EXTINF:-1 group-title="Russian",К1 [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://109.68.40.70:1935/castGeo/k1_3/playlist.m3u8
-#EXTINF:-1 group-title="Russian",ККК [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://195.189.17.14:9116/live/kkk
 #EXTINF:-1 group-title="Russian",Калейдоскоп ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://kaledoskop.vintera.tv:1935/kaledoskop/kaledoskop
 #EXTINF:-1 group-title="Russian",Карапуз ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://46.182.25.34:1935/tv/1370/playlist.m3u8
-#EXTINF:-1 group-title="Russian",Катунь 24 [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://tv.katun24.ru:1935/katun/katun
+#EXTINF:-1 group-title="Russian",Киев [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Коломенское ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://78.25.155.85:1935/myapp/mystream
 #EXTINF:-1 group-title="Russian",Красная Линия [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -594,9 +579,9 @@ rtmp://77.122.171.152:8080/tv/tv
 #EXTINF:-1 group-title="Russian",Крик ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://rictv.cdnvideo.ru:1935/rictv/rictv.sdp
 #EXTINF:-1 group-title="Russian",Крым 1 HD [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://91.215.62.73/live/1tvcrimea/playlist.m3u8
+http://109.200.157.43/hls/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Russian",Крым 24 HD [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://91.215.62.73/live/crimea24/playlist.m3u8
+http://109.200.157.61/hls/crimea24.m3u8
 #EXTINF:-1 group-title="Russian",Кубань 24 Орбита [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://ntk-htlive.cdn.ngenix.net/live2/_definst_/9tv-orb/chunklist.m3u8
 #EXTINF:-1 group-title="Russian",Культура UA [B][COLOR pink] רוסית - [/COLOR][/B]	
@@ -604,19 +589,283 @@ http://217.25.194.13:8091/live.flv
 #EXTINF:-1 group-title="Russian",Курган RU [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://iphone-streaming.ustream.tv/ustreamVideo/18185333/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="Russian",ЛДПР ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://213.247.198.250:1935/live/ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Russian",ЛОТ (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://176.110.43.117/lotlive/livestream
-#EXTINF:-1 group-title="Russian",Локо-2 ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
-rtmp://yellow.ether.tv/live/loko/broadcast4
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Russian",Любимое.TV [B][COLOR pink] רוסית - [/COLOR][/B]	
 http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
-#EXTINF:-1 group-title="Russian",М1 (Самара) [B][COLOR pink] רוסית - [/COLOR][/B]	
-http://tvm1.ru/hls/512.m3u8
 #EXTINF:-1 group-title="Russian",МТМ (Запорожье) [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://91.214.29.99/live/livestream
 #EXTINF:-1 group-title="Russian",Миколаївска ОДТРК [B][COLOR pink] רוסית - [/COLOR][/B]	
 rtmp://gigaz.wi.com.ua/hallDemoHLS/NICTV
+#EXTINF:-1 group-title="Russian",Мир [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Мир +3 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv3_800/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Мир 24 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Мир 24 Сейм [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://77.243.11.114:1935/live/live
+#EXTINF:-1 group-title="Russian",Мир Белогорья [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 group-title="Russian",Москва 24 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Russian",Московский Образовательный [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://195.208.64.43/hls_tv/tv.m3u8
+#EXTINF:-1 group-title="Russian",Моя Планета [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Russian",МузСоюз [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 group-title="Russian",НАШЕ ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://nashetv01.hostingradio.ru:8081/hls/nashetv/nashelive.m3u8
+#EXTINF:-1 group-title="Russian",НВ24 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://5.158.126.24/hls-live/livepkgr/_definst_/liveevent/nv24_1.m3u8
+#EXTINF:-1 group-title="Russian",НТ [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/uhls/18724506/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Russian",НТН [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://109.68.40.70:1935/castGeo/ntn_3/playlist.m3u8
+#EXTINF:-1 group-title="Russian",НТН (Резерв) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://lb1.itcons.net.ua:1935/ntns/redirect.hls?smil:ntn.smil
+#EXTINF:-1 group-title="Russian",Надiя [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://stream.hope.ua/hopeua/live_1
+#EXTINF:-1 group-title="Russian",Настоящее время [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://cp107825.live.edgefcs.net/live//rfe_tvmc3@383649
+#EXTINF:-1 group-title="Russian",Ника ТВ (Калуга) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://nikatv.cdnvideo.ru/nikatv-rtsp/nikatv/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Новороссия ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/ustreamVideo/18525677/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Russian",О2 ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ОГТРК (Одесса) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/ustreamVideo/9256855/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ОДТРК ЛТАВА [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://ltava.poltava.ua:8000/hls/tvltava.m3u8
+#EXTINF:-1 group-title="Russian",ОДТРК Нова Волинь [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://gigaz.wi.com.ua/hallDemo/VOLYNTV
+#EXTINF:-1 group-title="Russian",ОНТ (Беларусь) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://93.125.31.151/live/ont.stream_ont
+#EXTINF:-1 group-title="Russian",ОТБ (Харьков) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://109.86.220.205/live/otb1
+#EXTINF:-1 group-title="Russian",ОТВ (Приморье) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://flussonic1.podryad.net:80/OTV.stream_360p/index.m3u8
+#EXTINF:-1 group-title="Russian",ОТВ Галичина (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/uhls/9807474/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Обком ТВ (Омск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://obkom.omsk-kprf.ru:1935/live/livestream
+#EXTINF:-1 group-title="Russian",Общественное ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="Russian",Открытый HD [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://77.232.128.68/bks.m3u8
+#EXTINF:-1 group-title="Russian",ПИК ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://78.140.209.6:1935/live/piktv3pik3tv
+#EXTINF:-1 group-title="Russian",Первый Городской (Казань) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://grey.ether.tv:1935/live/tatarstan/broadcast4/chunklist.m3u8
+#EXTINF:-1 group-title="Russian",Первый Городской (Калининград) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://grey.ether.tv/live/kaliningrad/broadcast37/chunklist.m3u8
+#EXTINF:-1 group-title="Russian",Первый Городской (Киров) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://yellow.ether.tv/live/kirov/broadcast4
+#EXTINF:-1 group-title="Russian",Первый Городской (Кривой Рог) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://cdn7.live-tv.od.ua:8081/tv/1tvkr-abr/tv/1tvkr/chunks.m3u8
+#EXTINF:-1 group-title="Russian",Первый Городской (Н.Новгород) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://grey.ether.tv:1935/live/pfo/broadcast4
+#EXTINF:-1 group-title="Russian",Первый Городской (Одесса) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://77.88.196.138:8081/1tvod/1tvod-abr/1tvod/1tvod/chunks.m3u8
+#EXTINF:-1 group-title="Russian",Первый Метео [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Первый Республиканский [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/uhls/18742830/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Первый Тульский [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/uhls/18213437/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Первый Ярославский [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://cam6.yar-net.ru/live/1yar/index.m3u8
+#EXTINF:-1 group-title="Russian",Первый/МТВ (Волгоград) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Russian",Перший [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://109.68.40.70:1935/castGeo/ut1_3/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Перший (Резерв) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://lb1.itcons.net.ua:1935/ut1s/redirect.hls?smil:ut1.smil
+#EXTINF:-1 group-title="Russian",Перший Ukraine [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://212.26.129.98/hls/1tv-ukraine-2048.m3u8
+#EXTINF:-1 group-title="Russian",Перший Козацьки [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://217.20.182.229/live/livestream
+#EXTINF:-1 group-title="Russian",Планета [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Подсекай HD [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://176.32.32.36/podsekaiTV/chanelHD
+#EXTINF:-1 group-title="Russian",Правда Севера (Архангельск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://translation.atknet.ru/atkinfo/index.m3u8
+#EXTINF:-1 group-title="Russian",Правда Тут [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://pravdatyt.tv/pravdatythls/stream.m3u8
+#EXTINF:-1 group-title="Russian",Пульсар [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://78.154.164.191:19350/Pulsar/forever
+#EXTINF:-1 group-title="Russian",Пятый канал (Пермь) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://178.161.154.68/live2/uitv
+#EXTINF:-1 group-title="Russian",РБК [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Russian",РЖД [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Russian",РТБ Ровно [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://194.44.173.90:8080/stream.flv
+#EXTINF:-1 group-title="Russian",РТС Медиа (Рыбинск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://rtss.vintera.tv:8081/rtss/rtsstv/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Рада [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://217.20.164.181:80/live/rada240p.stream
+#EXTINF:-1 group-title="Russian",Регион (Днепр.,Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://178.215.160.98/live/trkregion
+#EXTINF:-1 group-title="Russian",Рен (Орел) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://77.247.235.133:1935/live/istoki-ren.sdp
+#EXTINF:-1 group-title="Russian",Риа новости [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://rian.cdnvideo.ru/rr/stream20/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Ритм (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/ustreamVideo/18967476/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Россия 1 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Russian",Россия 1 (Калуга) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Russian",Россия 1 (Н.Новгород) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/vgtrkrtmp/smil:nnov.smil/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Россия 1 (Самара) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://tvsamara.ru:8092/
+#EXTINF:-1 group-title="Russian",Россия 1 +2 (Новосибирск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://hosting.nsktv.ru:1935/live/rossia1
+#EXTINF:-1 group-title="Russian",Россия 24 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/live/smil:r24.smil/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="Russian",Россия 24 (Самара) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://tvsamara.ru:8091
+#EXTINF:-1 group-title="Russian",Россия HD [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Russian",Россия К [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Russian",Россия РТР [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Russian",Рудана Кривий Ріг [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://xrudanax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Рівне 1 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/ustreamVideo/17133378/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Сiвер (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/ustreamVideo/18640053/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Russian",СК1 (Житомир) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://195.211.174.246/static/CK1
+#EXTINF:-1 group-title="Russian",СТВ (Беларусь) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8
+#EXTINF:-1 group-title="Russian",СТВ (Ставрополь) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
+#EXTINF:-1 group-title="Russian",СТВ (Ульяновск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/uhls/12336984/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Russian",СТРК HD [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Самара ГИС [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://samaragis.ru:9998/iphone.m3u8
+#EXTINF:-1 group-title="Russian",Самотлор 24 (Нижневартовск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/ustreamVideo/18268104/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Санкт-Петербург [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Север (Ненецкий автономный округ) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Семерка (Иркутск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://7ka.tv/7ka-tv.m3u8
+#EXTINF:-1 group-title="Russian",Скат 24 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://hls.scattv.cdnvideo.ru/scattv2/IP-CDN_Scat24online_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Скіфія (Херсон) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://77.222.138.62/live/myStream
+#EXTINF:-1 group-title="Russian",Совершенно секретно [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://serv23.vintera.tv:8081/secret/sovsec1/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Соціальна країна [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://sockr.cdnvideo.ru/sockr/sockr.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Союз [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Спас [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://spastv.cdnvideo.ru/spastv-live/spastv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Страна [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://testlivestream.rfn.ru/live/smil:strana.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Russian",Сургут 1 [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://217.8.90.68/live/stv512
+#EXTINF:-1 group-title="Russian",ТIМ (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://194.242.103.136:8080
+#EXTINF:-1 group-title="Russian",ТPK 555 Алушта [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://193.25.120.160:8888/udp/239.255.0.1:1234
+#EXTINF:-1 group-title="Russian",ТВ Голд (Запорожье) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/ustreamVideo/17930685/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ТВ Дитинец Чернигов [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://webtv.net.ua:8080/stream.flv
+#EXTINF:-1 group-title="Russian",ТВ Пенза [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://tv-penza.ru/live/1
+#EXTINF:-1 group-title="Russian",ТВ-Дом (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://78.26.128.21:8082/stream.flv?stream=133
+#EXTINF:-1 group-title="Russian",ТВА Чернівці [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://gigaz.wi.com.ua/hallDemoHLS/TBALife
+#EXTINF:-1 group-title="Russian",ТВН (Ногинск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://tvnoginsk.ru:8081/stream.flv
+#EXTINF:-1 group-title="Russian",ТВЦ [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
+#EXTINF:-1 group-title="Russian",ТВЦ (Набережные Челны) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://webtv.tatar-inform.ru:1935/live/tvchelny/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ТВЦ (Нижнекамск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://webtv.tatar-inform.ru:1935/live/nk/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ТДК [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ТИВИСИ (Иркутск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://195.206.41.230:8080/TVS/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ТНТ (Курск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://178.249.242.111:1935/live/tv6
+#EXTINF:-1 group-title="Russian",ТНТ (Солнечногорск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://solntv.cdnvideo.ru/solntv/solntv.sdp
+#EXTINF:-1 group-title="Russian",ТНТ Music [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://hls.tntmusic.cdnvideo.ru/tntmusic/tntmusic2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ТРК Львів [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://gigaz.wi.com.ua/hallDemoHLS/LVIV
+#EXTINF:-1 group-title="Russian",ТРК РAI (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://62.122.206.250/trkrai?carg=1/mystream?sarg=2
+#EXTINF:-1 group-title="Russian",ТРК Репортер (Одесса) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://77.88.196.133:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ТРК Северская (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/ustreamVideo/18641095/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ТРК Смiла (Украина) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://195.95.171.15:8080/video.flv
+#EXTINF:-1 group-title="Russian",ТТРК "Круг" [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/uhls/13822645/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ТелПлюс [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://91.202.253.190:1935/live1/telplus.tv
+#EXTINF:-1 group-title="Russian",ТелеДом HD [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://91.209.128.203/live/teledom3
+#EXTINF:-1 group-title="Russian",Тивиком (Улан-Удэ) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1 group-title="Russian",Тиса-1 [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://213.174.8.15/live/live1.flv
+#EXTINF:-1 group-title="Russian",Трейлеры ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
+#EXTINF:-1 group-title="Russian",Третий Цифровой (Одесса) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://77.88.196.133:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Трофей HD [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
+#EXTINF:-1 group-title="Russian",Тюменское время [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Russian",Улыбка Ребенка [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://109.68.190.192:1935/WEB_SmileTV/SmileTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Фестивальная-12 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://78.140.209.6/unost/festival/chunklist.m3u8
+#EXTINF:-1 group-title="Russian",ЦК [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://iphone-streaming.ustream.tv/ustreamVideo/22338887/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Центр Красноярск HD [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://91.230.211.87:1935/720p/hd
+#EXTINF:-1 group-title="Russian",ЧП Инфо [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://109.68.40.70:1935/castGeo/magnolia_3/playlist.m3u8
+#EXTINF:-1 group-title="Russian",ЧП Инфо (Резерв) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://lb1.itcons.net.ua:1935/magnolias/redirect.hls?smil:magnolia.smil
+#EXTINF:-1 group-title="Russian",Чаваш (Чебоксары) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://77.240.155.126/live/livestream
+#EXTINF:-1 group-title="Russian",Че (Сургут) [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://tvsever.ru:1935/live/per2
+#EXTINF:-1 group-title="Russian",Черноморская ТРК [B][COLOR pink] רוסית - [/COLOR][/B]	
+rtmp://blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp
+#EXTINF:-1 group-title="Russian",Чернівецький Промінь HD [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://77.88.210.226/buk.ua_live/promintv/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Шансон ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Щелковское ТВ [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://95.213.197.210:8080/hls/live-576p/index.m3u8
+#EXTINF:-1 group-title="Russian",Эфир-24 [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:-1 group-title="Russian",Эхо 24 (Новоуральск) [B][COLOR pink] רוסית - [/COLOR][/B]	
+http://stream.novouralsk-news.ru/hls/mp4:echotv24.m3u8
 ##############################################################################################
 ###############################################################################################
 #EXTINF:-1 group-title="Hungary" ,M 1 HD [B][COLOR purple] הונגרית - [/COLOR][/B]
